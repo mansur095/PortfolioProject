@@ -13,8 +13,8 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/mansur095/PortfolioProject.git
+   cd PORTFOLIO
    ```
 2. **Установите зависимости:**
    ```bash
