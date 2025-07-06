@@ -1,0 +1,6 @@
+* {
+    margin: 0;
+}
+html {
+    background: radial-gradient(ellipse at 60% 30%, #2e4857 0%, #1a2330 60%, #101624 100%);
+}
